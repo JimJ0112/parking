@@ -1,0 +1,17 @@
+{
+  "name": "Parking Management",
+  "lang": "en-us",
+  "short_name": "Park M.",
+  "theme_color": "#22b975",
+  "background_color": "#274053",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/customer/index.php",
+    "icons": [
+        {
+            "src": "images/logo512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
